@@ -1,13 +1,20 @@
- <!-- <div align='center'> 
+<p align="center">
+  <img src="https://media.tenor.com/images/45d415851009f2150902f525d58f166f/tenor.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I design for GitHub.
+    <br>My current work focuses on enabling all of y'all to
+      <br><em>receive recognition</em> for the amazing things that
+    <br>you do in your software communities :sparkles:<br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+  </samp>
+</p>
 
-	 ![](https://media.tenor.com/images/45d415851009f2150902f525d58f166f/tenor.gif)
- 
- </div>  -->
 <div align='center'> 
-  <img src='https://media.tenor.com/images/45d415851009f2150902f525d58f166f/tenor.gif)' />
+  <img src='https://media.tenor.com/images/45d415851009f2150902f525d58f166f/tenor.gif' />
 </div>
-<!-- <font face="黑体" color=green size=5>
-  
+
 </font> -->
 <a href="http://totallytotallyamazing.com/tta/?doaction=code1#/" target="_blank">这里是魔法小公举的study palace🌱</a>
  
