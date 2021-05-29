@@ -6,9 +6,10 @@
 <div align='center'> 
   <img src='https://media.tenor.com/images/45d415851009f2150902f525d58f166f/tenor.gif)' />
 </div>
-<font face="黑体" color=green size=5>
-  这里是魔法小公举的study palace🌱
-</font>
+<!-- <font face="黑体" color=green size=5>
+  
+</font> -->
+<a href="http://totallytotallyamazing.com/tta/?doaction=code1#/" target="_blank">这里是魔法小公举的study palace🌱</a>
  
 ##  🔭 现在我正在做着一件秘密小研究
 ###  🌱 因为基础一般般，所以小公举还在修仙路上...
