@@ -4,8 +4,8 @@
   <samp>
     :wave: Hi! 这里是魔法小公举的study palace🌱
     <br>🔭 我是一名前端魔法师
-      <br><em>🌱 因为不是特别优秀， 所以小公举还在修仙路上...</em>
-    <br>期盼有朝一日能得到前端爸爸的信耐呢 :sparkles:<br><br>
+      <br><em>🌱 小公举还在修仙路上...</em>
+    <br> :sparkles:<br><br>
     <img src="https://media1.tenor.com/images/89f8b4e22b9cff58dbe428d9b5ce4514/tenor.gif" width="240px" align="center">
     <br>
     <br>🤔 怎么才能变得羽翼丰满呢🤔 <br>
